@@ -1,0 +1,9 @@
+{
+    "path" : "~/KDD/ KDD_Project/student-alcohol-consumption",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
